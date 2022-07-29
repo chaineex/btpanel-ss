@@ -25,7 +25,7 @@ Install_ss()
     "local_address":"127.0.0.1",
     "local_port":1080,
     "port_password":{
-    	"53":"https://github.com/insoxin/btpanel-ss"
+    	"53":"https://github.com/chaineex/btpanel-ss"
     },
     "timeout":300,
     "method":"aes-256-cfb",
