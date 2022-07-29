@@ -5,7 +5,7 @@
 	"name":"ss",
 	"type":"扩展",
 	"ps":"宝塔Linux面板shadowsocks可视化管理插件",
-	"versions":"1.0",
+	"versions":"1.2",
 	"shell":"ss.sh",
 	"checks":"/www/server/panel/plugin/ss",
 	"author":"huoex",
