@@ -8,9 +8,9 @@
 	"versions":"1.0",
 	"shell":"ss.sh",
 	"checks":"/www/server/panel/plugin/ss",
-	"author":"姬长信",
-	"home":"https://github.com/insoxin/btpanel-ss",
-	"date":"2019-04-19",
+	"author":"huoex",
+	"home":"https://github.com/chaineex/btpanel-ss",
+	"date":"2022-04-19",
 	"default":false,
 	"display":1,
 	"api":true
